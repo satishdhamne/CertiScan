@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "internshipstudio-certificate-f3aa5",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
